@@ -39,3 +39,14 @@
 
 # debug information files
 *.dwo
+
+# PlatformIO generated files
+.pioenvs/
+.piolibdeps/
+.clang_complete
+gcc-flags.json
+
+# Other common ignores
+*.swp
+*.swo
+.DS_Store
